@@ -29,13 +29,18 @@ We created and configured multiple virtual machines on these ESXi nodes to simul
 </div>
 
 
-## demo
+## Demo
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0a97de8d-a262-4422-a820-5aae500c14b0" alt="Description" width="600"/><br>
   <em>Figure 1: Network Diagramm  </em>
 </p>
 
+## Other contributers
+ ### Team member 
+- El Idrissi Hafssa  
+ ### Superviser
+- Pr. ACHBAROU Omar   
 
 
   
